@@ -1,4 +1,4 @@
-<p align="center"><img style="width: 20%;" src="https://smcclennon.github.io/assets/images/P%2B%2B256.png" alt="Primer++ logo"/></img></p>
+<p align="center"><img style="width: 20%;" src="https://smcclennon-img.netlify.app/projects/Primer/ppp256.png" alt="Primer++ logo"/></img></p>
 
 <h2 align="center">Primer++</h2>
 <p align="center"><small>Rewritten from the ground up in C++ with stability and performance improvements</small></p>
@@ -165,8 +165,8 @@ Primer was re-written from the ground up in C++ (5th - 7th May 2020) with stabil
 </br>
 
 ## Primer Screenshots
-![Windows version](https://smcclennon.github.io/assets/images/screenshots/Primer/windows.png)
-![Unix version](https://smcclennon.github.io/assets/images/screenshots/Primer/unix.png)
+![Windows version](https://smcclennon-img.netlify.app/projects/Primer/windows.png)
+![Unix version](https://smcclennon-img.netlify.app/projects/Primer/unix.png)
 
 *Written in Python 3.8 on Windows 10*
 
